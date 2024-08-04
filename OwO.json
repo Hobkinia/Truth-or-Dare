@@ -137,7 +137,10 @@
       "¿Alguna vez has tenido una conexión emocional con alguien a través del sexo?",
       "¿Qué prefieres: amor sin sexo o sexo sin amor?",
       "¿Qué tan lejos llegarías para cumplir una fantasía sexual secreta?",
-      "Si pudieras controlar el cuerpo de <player> por un día, ¿qué harías?"
+      "Si pudieras controlar el cuerpo de <player> por un día, ¿qué harías?",
+      "Adivina cuántas parejas sexuales ha tenido <player> en los últimos 6 meses. Si aciertas, <player> toma un shot. Si te equivocas, tú tomas un shot.",
+      "Adivina cuál es la fantasía sexual de <player>. Si aciertas, <player> bebe. Si te equivocas, bebe tú.",
+      "Adivina qué parte del cuerpo de <player> considera más atractiva. Si aciertas, <player> debe beber. Si fallas, tú bebes."
   ],
   "Dares": [
     "Silénciate hasta tu próximo turno.",
@@ -260,19 +263,27 @@
     "Comparte el último pensamiento erótico que tuviste con el grupo.",
     "Haz que <player> te dé una orden provocativa que debes cumplir.",
     "Toma el control de un juguete sexual de <player> por <range[1-3]> minutos.",
-    "Haz un gesto erótico a la cámara (si estás en videollamada) durante <range[5-15]> segundos.",
     "Escribe el nombre de <player> en tu cuerpo y muéstralo al grupo.",
     "Deja que <player> elija una prenda de ropa que debes quitarte (en el juego o en la vida real).",
     "Bésale a <player> en la parte del cuerpo que elija.",
     "Susurra al oído de <player> algo que harías en privado.",
     "Deja que <player> controle tu próximo movimiento en el juego por una ronda.",
     "Recrea una escena erótica que hayas visto recientemente.",
-    "Haz un baile provocativo para <player> durante <range[15-30]> segundos.",
+    "Haz un baile provocativo para <player> durante <range[15-60]> segundos.",
     "Pon un cubo de hielo en tu ropa interior hasta que se derrita.",
     "Deja que <player> te haga una pregunta íntima que debes responder con la verdad.",
     "Haz un sonido erótico cada vez que <player> te toque durante la próxima ronda.",
     "Simula una llamada erótica con <player> mientras el grupo escucha.",
-    "Dale un abrazo sensual a <player> por <range[10-20]> segundos."
+    "Dale un abrazo sensual a <player> por <range[1-5]> minutos.",
+    "Toma un shot si alguna vez has rechazado una invitación sexual.",
+    "Bebe un trago y dale otro trago a <player>.",
+    "Intenta hacer un truco con la lengua. Si fallas, bebe dos shots.",
+    "Haz un brindis por el deseo sexual más salvaje que tengas.",
+    "Canta una canción sexy. Si no puedes, bebe dos shots.",
+    "Intenta hacer el split o un truco de flexibilidad. Si no puedes, toma dos shots.",
+    "Haz una propuesta de trío a dos jugadores. Si no se sienten cómodos, los tres deben beber un shot.",
+    "Haz un baile lento para <player>. Si no puedes hacerlo bien, ambos deben beber dos shots.",
+    "Lame la mejilla de <player>. Si no lo haces correctamente, ambos deben tomar un shot."
 ]
 }
 
