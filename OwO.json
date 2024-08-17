@@ -279,7 +279,10 @@
     "Haz un baile lento para <player>. Si no puedes hacerlo bien, ambos deben beber dos shots.",
     "Lame la mejilla de <player>. Si no lo haces correctamente, ambos deben tomar un shot.",
     "Puedes regalar los shots que quieras, pero cada uno que des tendras que tomar tu dos",
-    "<player> puede beber los shots que quiera, pero tu tienes que beber el doble"
+    "<player> puede beber los shots que quiera, pero tu tienes que beber el doble",
+    "Dale a Verdad, todos los jugadores deben responder",
+    "Tira de nuevo, todos los jugadores deben hacer el reto que salga",
+    "Tira de nuevo, <player> tiene que hacer el reto contigo"
 ]
 }
 
